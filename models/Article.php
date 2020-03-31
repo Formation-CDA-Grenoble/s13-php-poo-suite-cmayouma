@@ -206,3 +206,34 @@ class Article {
         return $this;
     }
 }
+
+static private function saveArticleFromData($data) {
+    return new Article(
+        $data['id'],
+        $data['title'],
+        $data['content'],
+        $data['cover'],
+
+        if($data['id']=null)
+
+        return new Article(
+            $data['id'],
+            $data['title'],
+            $data['content'],
+            $data['cover'],
+        }
+
+static private function deleteArticleFromData($data) {
+    return new Article(
+        $data['id'],
+        $data['title'],
+        $data['content'],
+        $data['cover'],
+
+        if($data['id']=$data['id'])
+
+        return new Article(
+            $data['id']= null,
+            $data['title'],
+            $data['content'],
+            $data['cover'],     
